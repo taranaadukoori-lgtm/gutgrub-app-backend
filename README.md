@@ -8,9 +8,8 @@ The GutGrub Backend is a Node.js application built with Express.js that provides
 
 The workspace contains two identical sets of files:
 - Root level: `package.json` and `server.js`
-- Subdirectory `gutgrub-app-backend/`: Duplicate `package.json` and `server.js`
 
-Both implementations are functionally identical, providing a RESTful API for user authentication.
+It provides a RESTful API for user authentication.
 
 ## Dependencies
 
